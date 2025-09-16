@@ -39,6 +39,10 @@ This repository contains scripts and instructions to configure an Asrock BC-250 
 - Rebuilds initramfs with `mkinitcpio`.
 - Clones, builds, and installs the Oberon governor, enabling its systemd service.
 
+## Memory configuration
+
+By default the BC-250 have 8GB RAM + 8GB VRAM configuration. To change this you can check [here](./MOD_BIOS_README.md)
+
 ## Troubleshooting
 
 - The script will stop and provide error messages if prerequisites are not met.
