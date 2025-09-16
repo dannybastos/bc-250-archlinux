@@ -23,7 +23,7 @@ To set the amount of memory for your GPU/APU:
       `<GXF Configuration>`  
       `<Integrated Graphics Controler> =  [Forces]`  
       `<UMA MODE>                      =  [UMA_SPECIFIED]`  
-      `<UMA Frame buffer Size>         =  [512]` **recommended**  
+      `<UMA Frame buffer Size>         =  [512MB]` **recommended**  
 
 Here, you can adjust the memory settings as desired.
 
